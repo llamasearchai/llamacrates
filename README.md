@@ -44,7 +44,7 @@ graph TD
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/llamasearchai/llamacrates.git # Update URL
+    git clone https://llamasearch.ai # Update URL
     cd llamacrates
     ```
 
@@ -58,7 +58,7 @@ graph TD
     If using this in another Rust project, add it to your `Cargo.toml`:
     ```toml
     [dependencies]
-    llamacrates = { git = "https://github.com/llamasearchai/llamacrates.git" } # Or path/version
+    llamacrates = { git = "https://llamasearch.ai } # Or path/version
     # or specific crates:
     # llamacrates-core = { ... }
     ```
@@ -105,7 +105,7 @@ Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support & Community 💬
 
-*   **Issues**: [GitHub Issues](https://github.com/llamasearchai/llamacrates/issues) *(Update link)*
+*   **Issues**: [GitHub Issues](https://llamasearch.ai *(Update link)*
 *   **Discord**: [Community Discord](https://discord.gg/llamasearch) *(Update link)*
 
 ---
